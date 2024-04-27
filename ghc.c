@@ -1,6 +1,6 @@
 /** @brief Serial: 9a0f8a27
  *  @brief main function with source code
- *  @file lab06.c
+ *  @file ghc.c
  */
 
 #include "ghcontrol.h"
